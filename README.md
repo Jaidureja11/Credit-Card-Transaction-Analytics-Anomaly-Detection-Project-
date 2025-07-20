@@ -40,3 +40,7 @@ Every detected anomaly is translated into plain-language explanations for maximu
 Risk and financial impact are quantified using live KPIs, not just technical scores.
 The workflow mirrors best practices used in banking and fintech: from raw data to actionable and interpretable insight.
 The project is structured for easy extension to additional currencies, transaction types, or more advanced analytics.
+
+Screenshot of dashboard : 
+<img width="1417" height="792" alt="Screenshot 2025-07-20 160758" src="https://github.com/user-attachments/assets/384593e5-3fc3-4824-8e1f-95e24d9abaa9" />
+
